@@ -1,6 +1,6 @@
 ## Getting Started
 
-First, Clone the projcect and installl dependencies by:
+First, Clone the project and install dependencies by:
 
 ```bash
 npm install
