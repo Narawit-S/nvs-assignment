@@ -5,6 +5,9 @@
   "repository": "https://github.com/Narawit-S/nvs-assignment.git",
   "author": "Narawit Sukwattanajaroon <narawichsukwattanajaroon@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "@types/jest": "^29.5.5",
     "jest": "^29.7.0",
