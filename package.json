@@ -6,6 +6,7 @@
   "author": "Narawit Sukwattanajaroon <narawichsukwattanajaroon@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "start": "nodemon --exec 'ts-node' src/workspace.ts localhost 3000",
     "test": "jest"
   },
   "devDependencies": {
