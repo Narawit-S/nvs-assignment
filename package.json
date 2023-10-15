@@ -1,0 +1,14 @@
+{
+  "name": "nvs-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Narawit-S/nvs-assignment.git",
+  "author": "Narawit Sukwattanajaroon <narawichsukwattanajaroon@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.5",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.2.2"
+  }
+}
